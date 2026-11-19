@@ -16,10 +16,19 @@
 </p>
 
 <p align="center">
+  <a href="#watch-the-preview">Watch the preview</a> ·
   <a href="#see-mathraft-in-action">Explore the workflow</a> ·
   <a href="#availability">Release status</a> ·
   <a href="https://github.com/SHENMR-web/MathRaft/issues/new?template=research-feedback.yml">Share your research needs</a>
 </p>
+
+## Watch the preview
+
+**Research map · Chapter 1 preview** — 32 seconds · 1080p · With background music.
+
+[![Play the MathRaft research-map preview](assets/videos/mathraft-research-map-preview.jpg)](assets/videos/mathraft-research-map-preview-1080p.mp4)
+
+[▶ Open the video](assets/videos/mathraft-research-map-preview-1080p.mp4) · [Download MP4](https://raw.githubusercontent.com/SHENMR-web/MathRaft/main/assets/videos/mathraft-research-map-preview-1080p.mp4)
 
 ## Research guided by your judgment
 

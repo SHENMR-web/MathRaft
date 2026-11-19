@@ -16,10 +16,19 @@
 </p>
 
 <p align="center">
+  <a href="#观看样片">观看样片</a> ·
   <a href="#跟随一个研究项目认识-mathraft">查看研究流程</a> ·
   <a href="#发布进展">发布进展</a> ·
   <a href="https://github.com/SHENMR-web/MathRaft/issues/new?template=research-feedback.yml">分享研究需求</a>
 </p>
+
+## 观看样片
+
+**研究地图 · 首章样片** — 32 秒 · 1080p · 含背景音乐。
+
+[![播放 MathRaft 研究地图首章样片](assets/videos/mathraft-research-map-preview.jpg)](assets/videos/mathraft-research-map-preview-1080p.mp4)
+
+[▶ 打开视频](assets/videos/mathraft-research-map-preview-1080p.mp4) · [下载 MP4](https://raw.githubusercontent.com/SHENMR-web/MathRaft/main/assets/videos/mathraft-research-map-preview-1080p.mp4)
 
 ## 让你的研究判断贯穿整个过程
 
