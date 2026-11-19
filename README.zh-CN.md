@@ -16,9 +16,10 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/SHENMR-web/MathRaft/releases/tag/v2.1.0">下载 v2.1.0</a> ·
   <a href="#观看样片">观看样片</a> ·
   <a href="#跟随一个研究项目认识-mathraft">查看研究流程</a> ·
-  <a href="#发布进展">发布进展</a> ·
+  <a href="#下载与交流">下载与交流</a> ·
   <a href="https://github.com/SHENMR-web/MathRaft/issues/new?template=research-feedback.yml">分享研究需求</a>
 </p>
 
@@ -40,7 +41,7 @@ MathRaft 面向以理论推导与数学证明为核心的科研工作者。放�
 
 ## 跟随一个研究项目认识 MathRaft
 
-以下五张截图来自当前内测版本，展示了包括偏微分方程与控制理论示例在内的实际研究流程。
+以下五张截图展示了包括偏微分方程与控制理论示例在内的实际研究流程。
 
 ### 1. 为每个研究问题建立持续保存的空间
 
@@ -89,9 +90,20 @@ MathRaft 面向数学、控制理论、优化理论、偏微分方程理论及�
 
 从组织相关论文、形成研究问题，到探索不同方法、审视论证并确定下一步，研究者与多个智能体可以在同一条持续演进的研究路径中协作。
 
-## 发布进展
+## 下载与交流
 
-**MathRaft 目前正在内测。** 本仓库先行展示产品介绍与当前研究流程。内测完成后，软件将加入本仓库，并在这里公布发布信息与使用说明。
+**MathRaft v2.1.0 现已发布，提供 Windows 安装程序。** 下载约 50 MB 的安装包，按照用户操作教程完成安装并开始第一个研究项目。
+
+| 下载内容 | 下载入口 |
+| --- | --- |
+| Windows 安装包（.exe，约 50 MB） | [GitHub 直接下载](https://github.com/SHENMR-web/MathRaft/releases/download/v2.1.0/MathRaft-2.1.0-Setup.exe) |
+| 用户操作教程（中文 PDF） | [下载 v2.1.0 用户操作教程](https://github.com/SHENMR-web/MathRaft/releases/download/v2.1.0/MathRaft-V2.1.0-User-Guide.zh-CN.pdf) |
+| 百度网盘 | [下载 MathRaft](https://pan.baidu.com/s/1LR85o4kUs5mgj7WWP3tGlg?pwd=qpnj) · 提取码：**qpnj** |
+| 夸克网盘 | [下载 MathRaft](https://pan.quark.cn/s/04584cad421f) |
+
+**QQ群：849946426**
+
+完整发布文件见 [v2.1.0 发布页面](https://github.com/SHENMR-web/MathRaft/releases/tag/v2.1.0)，同时提供 [SHA-256 文件校验值](https://github.com/SHENMR-web/MathRaft/releases/download/v2.1.0/SHA256SUMS.txt)。
 
 - **关注后续发布：** 为仓库点亮 Star，并通过 **Watch → Custom → Releases** 订阅未来的版本发布。
 - **参与产品交流：** [分享你的研究领域、使用场景或功能建议](https://github.com/SHENMR-web/MathRaft/issues/new?template=research-feedback.yml)。

@@ -16,9 +16,10 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/SHENMR-web/MathRaft/releases/tag/v2.1.0">Download v2.1.0</a> ·
   <a href="#watch-the-preview">Watch the preview</a> ·
   <a href="#see-mathraft-in-action">Explore the workflow</a> ·
-  <a href="#availability">Release status</a> ·
+  <a href="#availability">Downloads & community</a> ·
   <a href="https://github.com/SHENMR-web/MathRaft/issues/new?template=research-feedback.yml">Share your research needs</a>
 </p>
 
@@ -40,7 +41,7 @@ Your research taste shapes the process. Add an idea, question an assumption, int
 
 ## See MathRaft in action
 
-The five screenshots below show a research workflow in the current internal-test build, including an example from PDE and control theory.
+The five screenshots below illustrate the research workflow, including an example from PDE and control theory.
 
 ### 1. Give each research question a workspace
 
@@ -91,9 +92,20 @@ It supports a continuous research process: bring together relevant papers, frame
 
 ## Availability
 
-**MathRaft is currently in internal testing.** This repository introduces the platform and showcases the current workflow. The software will be added after internal testing is complete; release details and usage instructions will be published here.
+**MathRaft v2.1.0 is now available for Windows.** Download the installer (approximately 50 MB) and follow the user guide to install the software and start your first research project.
 
-- **Follow the release:** star this repository and use **Watch → Custom → Releases** for future release notifications.
+| Download | Link |
+| --- | --- |
+| Windows installer (.exe, approximately 50 MB) | [Download from GitHub](https://github.com/SHENMR-web/MathRaft/releases/download/v2.1.0/MathRaft-2.1.0-Setup.exe) |
+| User guide (Chinese PDF) | [Download the v2.1.0 user guide](https://github.com/SHENMR-web/MathRaft/releases/download/v2.1.0/MathRaft-V2.1.0-User-Guide.zh-CN.pdf) |
+| Baidu Netdisk mirror | [Download MathRaft](https://pan.baidu.com/s/1LR85o4kUs5mgj7WWP3tGlg?pwd=qpnj) · Access code: **qpnj** |
+| Quark Drive mirror | [Download MathRaft](https://pan.quark.cn/s/04584cad421f) |
+
+**QQ group:** **849946426**
+
+See the [v2.1.0 release](https://github.com/SHENMR-web/MathRaft/releases/tag/v2.1.0) for the release files and [SHA-256 checksums](https://github.com/SHENMR-web/MathRaft/releases/download/v2.1.0/SHA256SUMS.txt).
+
+- **Follow future releases:** star this repository and use **Watch → Custom → Releases** for release notifications.
 - **Help shape MathRaft:** [share your research field, intended workflow, or feature ideas](https://github.com/SHENMR-web/MathRaft/issues/new?template=research-feedback.yml).
 - **Read in Chinese:** [简体中文介绍](README.zh-CN.md).
 
