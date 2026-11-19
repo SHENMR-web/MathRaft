@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title description">
+  <title id="title">MathRaft</title>
+  <desc id="description">You steer the research. Agents explore together. 研究由你掌舵，探索协同推进。</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4f7ff"/>
+      <stop offset="1" stop-color="#edf5ff"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#c4d8ff"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#background)"/>
+  <rect x="780" y="24" width="476" height="312" rx="16" fill="url(#dots)"/>
+  <g font-family="Segoe UI, Arial, Microsoft YaHei, sans-serif">
+    <text x="64" y="58" fill="#2563eb" font-size="12" font-weight="600" letter-spacing="3">MULTI-AGENT MATHEMATICAL RESEARCH</text>
+    <text x="60" y="132" fill="#12335b" font-size="66" font-weight="700" letter-spacing="-2">MathRaft</text>
+    <text x="64" y="187" fill="#183b65" font-size="30" font-weight="600">You steer the research.</text>
+    <text x="64" y="227" fill="#183b65" font-size="30" font-weight="600">Agents explore together.</text>
+    <text x="64" y="272" fill="#527197" font-size="22">研究由你掌舵，探索协同推进。</text>
+    <text x="64" y="320" fill="#2563eb" font-size="13" letter-spacing="1.3">LITERATURE → RESEARCH PATHS → THEORY &amp; PROOFS</text>
+    <g fill="none" stroke="#9bbdf5" stroke-width="2.5">
+      <path d="M844 180H920M920 94V266M920 94H984M920 180H984M920 266H984"/>
+      <path d="M1046 94H1110V137H1178M1046 180H1178M1046 266H1110V223H1178"/>
+    </g>
+    <circle cx="838" cy="180" r="21" fill="#2563eb"/>
+    <path d="M831 180H845M838 173V187" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+    <g fill="white" stroke="#b0cbf8" stroke-width="1.5">
+      <rect x="978" y="69" width="76" height="50" rx="12"/>
+      <rect x="978" y="155" width="76" height="50" rx="12"/>
+      <rect x="978" y="241" width="76" height="50" rx="12"/>
+    </g>
+    <g fill="#2563eb" font-size="16" text-anchor="middle" font-weight="600">
+      <text x="1016" y="100">A</text>
+      <text x="1016" y="186">B</text>
+      <text x="1016" y="272">C</text>
+    </g>
+    <g fill="#edf9f7" stroke="#76b8ad" stroke-width="1.5">
+      <rect x="1160" y="119" width="37" height="35" rx="10"/>
+      <rect x="1160" y="162" width="37" height="35" rx="10"/>
+      <rect x="1160" y="205" width="37" height="35" rx="10"/>
+    </g>
+    <g fill="none" stroke="#348c7c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M1170 136L1176 142L1187 131"/>
+      <path d="M1170 179L1176 185L1187 174"/>
+      <path d="M1170 222L1176 228L1187 217"/>
+    </g>
+    <g fill="#527197" font-size="11" text-anchor="middle" letter-spacing="1.5">
+      <text x="838" y="320">PAPERS</text>
+      <text x="1016" y="320">BRANCHES</text>
+      <text x="1178" y="320">REPORTS</text>
+    </g>
+  </g>
+</svg>

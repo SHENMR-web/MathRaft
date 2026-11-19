@@ -1,0 +1,38 @@
+name: Research needs & ideas / 研究需求与建议
+description: Tell us how MathRaft could fit your research. / 分享研究场景与功能建议。
+title: "[Research / 研究] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping shape MathRaft. English and Chinese are both welcome.
+        欢迎使用中文或英文分享你的想法，帮助我们完善 MathRaft。
+  - type: dropdown
+    id: field
+    attributes:
+      label: Research field / 研究领域
+      options:
+        - Mathematics / 数学
+        - Control theory / 控制理论
+        - Optimization theory / 优化理论
+        - Partial differential equations / 偏微分方程
+        - Other or interdisciplinary / 其他或交叉领域
+    validations:
+      required: true
+  - type: textarea
+    id: scenario
+    attributes:
+      label: Research scenario / 研究场景
+      description: What question or workflow would you like to explore with MathRaft? / 你希望用 MathRaft 探索什么问题，或支持怎样的研究流程？
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Ideas and expectations / 建议与期待
+      description: Which capabilities would help most? / 哪些能力对你的研究最有帮助？
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context / 补充说明
+      description: Optional links to public papers, examples, or related discussions. / 可选：公开论文、案例或相关讨论的链接。
