@@ -103,7 +103,7 @@ MathRaft 面向数学、控制理论、优化理论、偏微分方程理论及�
 
 **QQ群：849946426**
 
-完整发布文件见 [v2.1.0 发布页面](https://github.com/SHENMR-web/MathRaft/releases/tag/v2.1.0)，同时提供 [SHA-256 文件校验值](https://github.com/SHENMR-web/MathRaft/releases/download/v2.1.0/SHA256SUMS.txt)。
+完整发布文件见 [v2.1.0 发布页面](https://github.com/SHENMR-web/MathRaft/releases/tag/v2.1.0)。
 
 - **关注后续发布：** 为仓库点亮 Star，并通过 **Watch → Custom → Releases** 订阅未来的版本发布。
 - **参与产品交流：** [分享你的研究领域、使用场景或功能建议](https://github.com/SHENMR-web/MathRaft/issues/new?template=research-feedback.yml)。

@@ -103,7 +103,7 @@ It supports a continuous research process: bring together relevant papers, frame
 
 **QQ group:** **849946426**
 
-See the [v2.1.0 release](https://github.com/SHENMR-web/MathRaft/releases/tag/v2.1.0) for the release files and [SHA-256 checksums](https://github.com/SHENMR-web/MathRaft/releases/download/v2.1.0/SHA256SUMS.txt).
+See the [v2.1.0 release](https://github.com/SHENMR-web/MathRaft/releases/tag/v2.1.0) for the release files.
 
 - **Follow future releases:** star this repository and use **Watch → Custom → Releases** for release notifications.
 - **Help shape MathRaft:** [share your research field, intended workflow, or feature ideas](https://github.com/SHENMR-web/MathRaft/issues/new?template=research-feedback.yml).
